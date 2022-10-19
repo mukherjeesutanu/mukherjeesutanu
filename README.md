@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mukherjeesutanu
+- 👋 Hi, I’m Sutanu Mukhopadhyay!
 - 👀 I’m interested in Computational Biophysical Chemistry and Computer-Aided Drug Design (CADD)
 - 🌱 I’m currently learning Advanced topics of computer simulations
 - 💞️ I’m looking to collaborate on CADD
