@@ -17,6 +17,10 @@
   <a href="mailto:sutanu.mukhopadhyay@bose.res.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<p align="center">
+  <img src="assets/md-simulation.svg" width="100%" alt="Animated molecular dynamics: a ligand diffuses through explicit water, binds a protein pocket and unbinds"/>
+</p>
+
 ---
 
 ## 🧬 About me
@@ -26,6 +30,14 @@ I'm a PhD researcher (Senior Research Fellow) in the **Department of Chemical an
 - 🔬 **Current focus:** mixed-solvent / mixed amino-acid MD for PPI hotspot and cryptic-pocket mapping (PLK1 PBD, PCSK9)
 - ⚗️ **Methods:** all-atom MD, enhanced sampling, alchemical free energy, neural-network potentials (ANI-2x in GROMACS), docking and ML rescoring, structural-ensemble generation (BioEmu)
 - 🎯 **Looking for:** postdoctoral positions in computational biophysics, allostery and structure-based drug design
+
+## 🧪 Mixed-solvent MD in action
+
+<p align="center">
+  <img src="assets/mixed-solvent-md.svg" width="100%" alt="Animated mixed-solvent MD: cosolvent probes (benzene, isopropanol, acetonitrile, acetamide) bind and unbind protein-surface hotspots while a cryptic pocket opens"/>
+</p>
+
+<p align="center"><sub>Cosolvent probes sample the protein surface, residing longer at PPI hotspots and seeding a transient cryptic pocket, the idea behind <a href="https://doi.org/10.1007/s12039-025-02449-9">PPIscout</a> and my PLK1 / PCSK9 allosteric-pocket work.</sub></p>
 
 ## 🛠️ Toolbox
 
