@@ -17,10 +17,6 @@
   <a href="mailto:sutanu.mukhopadhyay@bose.res.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <img src="assets/md-simulation.svg" width="100%" alt="Animated molecular dynamics: a ligand diffuses through explicit water, binds a protein pocket and unbinds"/>
-</p>
-
 ---
 
 ## 🧬 About me
