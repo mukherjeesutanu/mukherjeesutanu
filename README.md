@@ -53,9 +53,19 @@ I'm a PhD researcher (Senior Research Fellow) in the **Department of Chemical an
   <img src="https://img.shields.io/badge/HPC%20(PBS%2FSLURM)-444d56?style=flat-square" />
 </p>
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
 <table>
+<tr>
+<td width="100%">
+
+### [allo-classifier](https://github.com/mukherjeesutanu/allo-classifier)
+Can ligand structure alone tell an **allosteric** modulator from an **orthosteric** one? A ChEMBL 37 benchmark whose point is how much apparent accuracy is artefact: ROC-AUC falls from 0.995 (random split) to 0.723 (held-out target), and a probe that sees only *which protein* a compound was tested on — no chemistry at all — still scores 0.950 on a random split. It also shows that pooled physicochemical comparisons invert the within-target ones (a Simpson's paradox).
+
+`Python` · `ChEMBL` · `RDKit` · `LightGBM` · `SHAP` · `scikit-learn`
+
+</td>
+</tr>
 <tr>
 <td width="100%">
 
