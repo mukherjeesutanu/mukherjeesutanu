@@ -59,6 +59,16 @@ I'm a PhD researcher (Senior Research Fellow) in the **Department of Chemical an
 <tr>
 <td width="100%">
 
+### [tem1-allosteric-design](https://github.com/mukherjeesutanu/tem1-allosteric-design)
+De novo design against the **TEM-1 β-lactamase cryptic allosteric pocket**, with three generative paradigms (CReM, SAFE-GPT, SELFIES-GA) and a docking protocol that has to pass redocking before it is used. The site-selectivity claim is tested against the two ways it could be an artefact — selection bias (which inflated it 68%) and unequal box volumes (which, tested, had been *understating* it) — leaving a +1.3 kcal/mol paired preference over the catalytic site.
+
+`Python` · `AutoDock Vina` · `RDKit` · `ProLIF` · `CReM` · `SAFE-GPT`
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 ### [allo-classifier](https://github.com/mukherjeesutanu/allo-classifier)
 Can ligand structure alone tell an **allosteric** modulator from an **orthosteric** one? A ChEMBL 37 benchmark whose point is how much apparent accuracy is artefact: ROC-AUC falls from 0.995 (random split) to 0.723 (held-out target), and a probe that sees only *which protein* a compound was tested on — no chemistry at all — still scores 0.950 on a random split. It also shows that pooled physicochemical comparisons invert the within-target ones (a Simpson's paradox).
 
